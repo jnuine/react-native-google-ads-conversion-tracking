@@ -1,0 +1,20 @@
+{
+  "name": "react-native-google-ads-conversion-tracking",
+  "version": "0.0.0",
+  "description": "Use Google Ads Conversion Tracking SDK from React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnuine/react-native-google-ads-conversion-tracking.git"
+  },
+  "author": "Jnuine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnuine/react-native-google-ads-conversion-tracking/issues"
+  },
+  "nativePackage": true,
+  "homepage": "https://github.com/jnuine/react-native-google-ads-conversion-tracking#readme"
+}
