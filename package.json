@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-ads-conversion-tracking",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use Google Ads Conversion Tracking SDK from React Native",
   "main": "index.js",
   "scripts": {
